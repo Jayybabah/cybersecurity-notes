@@ -34,3 +34,4 @@ Python | Linux | Nmap | Wireshark | Nessus | Splunk | Networking (TCP/IP, DNS, V
 To grow into SOC Analyst / IT Support / Business Relationship roles where technology, security, and customer trust meet.
 
 📍 Kano / Abuja, Nigeria
+phishing-checker.py — Checks emails/links for phishing signs, gives Risk Score, warns users not to share BVN/PIN/OTP.
